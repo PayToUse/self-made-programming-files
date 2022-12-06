@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+    <center>
+        <h1>
+            A random string text that changes every second
+        </h1>
+        <script>
+            var randomString = document.createElement('div');
+            document.body.appendChild(randomString);
+            setInterval(function() {
+                randomString.innerHTML = Math.random().toString(36).substring(7);
+            }, 1000);
+        </script>
+    </center>
+</body>
+</html>
