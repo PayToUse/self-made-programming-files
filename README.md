@@ -11,7 +11,7 @@ this repository contains files from a bunch of the following programming languag
 
 `HTML, Java, JavaScript, C, C++, Python, PHP, LUA, Ruby, and other languages to contain with this repository.`
 
-If the code doesn't work, click on this hyperlink to the [issues category](https://github.com/PayToUse/self-made-programming-files/issues) here. 
+If the code doesn't work, or it seems to be invalid, click on this hyperlink to the [issues category](https://github.com/PayToUse/self-made-programming-files/issues) here. 
 
 # License
 self-made-programming-files is licensed under **[MIT License](https://github.com/PayToUse/self-made-programming-files/LICENSE)**. 
