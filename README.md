@@ -9,7 +9,9 @@ This is due to its code larger than other languages, it depends on how much code
 # Contents
 this repository contains files from a bunch of the following programming languages:
 
-`HTML, Java, JavaScript, C, C++, Python, PHP, LUA, Ruby, and other languages to contain with this repository.`
+```
+HTML, Java, JavaScript, C, C++, Python, PHP, LUA, Ruby, and other languages to contain with this repository.
+```
 
 If the code doesn't work, or it seems to be invalid, click on this hyperlink to the [issues category](https://github.com/PayToUse/self-made-programming-files/issues) here. 
 
